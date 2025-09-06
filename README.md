@@ -15,7 +15,7 @@
 <img src="Dashboard Screenshot.png" alt="Dashboard Screenshot" width="1500"/>
 
 ## Dashboard Screenshot 3.
-- - <a href = "https://github.com/MuguroNgugi/Call-Center-Analysis/blob/main/New%20Screenshot.png"> </A>
+- - <a href = "https://github.com/MuguroNgugi/Call-Center-Analysis/blob/main/New%20Screenshot.png"> Call Center Dashboard </A>
 <img src="New Screenshot.png" alt="Dashboard Screenshot" width="1500"/>
 
 
