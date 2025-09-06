@@ -6,9 +6,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe even the smallest data point can lead to big insights and drive impactful decisions!
 
-- Dashboiards Screenshots Build
-- - <a href = "https://github.com/MuguroNgugi/Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot%20for%20coffee%20shop%20sale.png"> Dashboard Screenshot </a>
+## Dashboards Screenshots 1.
+- - <a href = "https://github.com/MuguroNgugi/Data-Analysis-Dashboard/blob/main/Dashboard%20Screenshot%20for%20coffee%20shop%20sale.png"> Coffee Sales Analysis Dashboard Screenshot </a>
 ![Dashboard Screenshot for coffee shop sale](https://github.com/user-attachments/assets/1544c92c-c451-47f1-83a7-3716f4a5b451)
+
+## Dashboard Screenshot 2.
+<a href = "https://github.com/MuguroNgugi/Food-Delivery-Performance-Dashboard./blob/main/Dashboard%20Screenshot.png"> Food Delivery Performance Dashboard </a>
+<img src="Dashboard Screenshot.png" alt="Dashboard Screenshot" width="1500"/>
 
 
 <!---
